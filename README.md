@@ -2,9 +2,7 @@
 News Summarization
 Internship Project
 
-Text Summarization Framework
-
-Overview Welcome to the Text Summarization Framework repository! This project is developed as part of TxtSumm, aimed at creating a robust and efficient text summarization tool. The framework is designed to condense large volumes of text into concise summaries using advanced natural language processing techniques.
+Overview Welcome to the Text Summarization Framework repository! This project is developed as part of NewsSumm, aimed at creating a robust and efficient text summarization tool. The framework is designed to condense large volumes of text into concise summaries using advanced natural language processing techniques.
 
 Features
 
